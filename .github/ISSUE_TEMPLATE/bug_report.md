@@ -1,27 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Rapport de bug
+about: Créer un rapport pour nous aider à améliorer
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
-Please do not post questions or `how do I`'s here. Contact/DM [@supermamon](http://twitter.com/supermamon) or [@reposi3](https://twitter.com/reposi3) on Twitter.
+Une description claire et concise de ce qu'est le bug.
+Ne postez pas de questions ou de «comment puis-je» ici s'il vous plaît. Contact/DM [@supermamon](http://twitter.com/supermamon) or [@reposi3](https://twitter.com/reposi3) on Twitter.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Étapes à suivre pour reproduire le problème:
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Une description claire et concise de ce à quoi vous vous attendiez.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Ajoutez des captures d'écran pour expliquer votre problème.
 
 **Platform:**
-Where does the error occurs?
+Où se produit l'erreur?
  - Mobile Browser [e.g Mobile Safari, Chrome]
  - Cydia
  - Desktop Browser [e.g. Safari, Firefox]
 
 **Additional context**
-Add any other context about the problem here.
+Ajoutez tout autre contexte concernant le problème ici.
